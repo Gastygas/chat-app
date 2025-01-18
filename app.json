@@ -4,7 +4,7 @@
     "slug": "chat-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/capybarabubble.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -12,8 +12,9 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.gastongonzalez.chatapp",
       "adaptiveIcon": {
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#04458a"
       }
     },
     "web": {
@@ -27,7 +28,7 @@
         {
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "backgroundColor": "#04458a"
         }
       ]
     ],

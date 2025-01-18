@@ -4,7 +4,7 @@ import { ContainerChat } from "./ContainerChat";
 
 export function Main() {
   return (
-    <View style={{ backgroundColor: "#04458a", flex: 1 }}>
+    <View style={{ flex: 1 }}>
       <Navbar />
       <ContainerChat />
     </View>
