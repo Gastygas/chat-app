@@ -4,7 +4,6 @@
     "slug": "chat-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/capybarabubble.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
